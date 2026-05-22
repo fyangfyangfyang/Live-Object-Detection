@@ -3,6 +3,7 @@ streamlit-webrtc
 ultralytics
 opencv-python-headless
 av
+numpy
 torch
 torchvision
 tornado
